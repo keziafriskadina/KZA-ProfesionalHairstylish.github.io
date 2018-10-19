@@ -1,0 +1,9 @@
+.background{
+    background-image: url(../image/kayu.jpg);
+    background-color: transparent;
+    color:white;
+}
+.galery{
+    background-image: url(../image/galery.jpg);
+    background-color: transparent;
+}
